@@ -1,0 +1,1 @@
+SELECT * FROM dbo.PS_Log_Table as A WHERE A.Text_1 = '';
